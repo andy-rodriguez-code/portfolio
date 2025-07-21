@@ -2,7 +2,6 @@
 # Curriculum Vitae - Andrés Jair Soto Rodríguez
 **Desarrollador Web | Especialista en WordPress, Elementor & Automatización de Procesos**
 
-📍 Bucaramanga, Colombia  
 📞 314 286 4771  
 📧 sotorodriguez4140@gmail.com  
 🌐 Portafolio / GitHub: *(Añadir si tienes)*
@@ -89,6 +88,7 @@ Mi enfoque está en **aumentar la eficiencia operativa y mejorar la experiencia 
 **Tecnólogo en Análisis y Desarrollo de Sistemas de Información**  
 📍 SENA – Bucaramanga  
 📅 Sept 2021 – sept 2023
+
 ---
 
 ## 🎓 FORMACIÓN COMPLEMENTARIA
@@ -96,26 +96,31 @@ Mi enfoque está en **aumentar la eficiencia operativa y mejorar la experiencia 
 **Curso: Fundamentos de React** 
 50 horas  
 📅 Jun 2023 - Jul 2023 
+
 ---
 
 **Diplomado en funamentación para la formación profesional integral con base en competencias** 
 40 horas  
 📅 Ago 2023 
+
 ---
 
 **Diplomado en desarrollo de aplicaciones web** 
 480 horas  
 📅 Abr 2022 - Nov 2022
+
 ---
 
 **Diplomado en Fundamentos Básicos de PHP, CSS Y HTML** 
 90 horas  
 📅 Abr 2022 - May 2022
+
 ---
 
 **Curso: Diseño de páginas web con Bootstrap 4** 
 40 horas  
 📅 Jul 2022 
+
 ---
 
 ## 🌍 IDIOMAS
@@ -142,7 +147,7 @@ Mi enfoque está en **aumentar la eficiencia operativa y mejorar la experiencia 
 
 ## PROYECTOS DESTACADOS
 
-https://comfacundi.com.co/
+- https://comfacundi.com.co/
 https://eventos.comfacundi.com.co/personas/
 https://eventos.comfacundi.com.co/empresas/
 https://boproyectos.com/
